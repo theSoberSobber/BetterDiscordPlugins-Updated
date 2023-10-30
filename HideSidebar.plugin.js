@@ -19,7 +19,7 @@ module.exports = (_ => {
         document.querySelector('[class^="sidebar"]').className
     );
     const guildBarSelector = createSelector(
-        document.querySelector('nav[class*="guilds-"').className
+        document.querySelector('nav[class*="guilds_"').className
     );
     const sidebarBtn = document.createElement('span');
     const btnStyle = `
