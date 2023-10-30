@@ -5,8 +5,8 @@
  * @author Pieloaf
  * @authorId 439364864763363363
  * @website https://pieloaf.github.io
- * @source https://github.com/Pieloaf/BetterDiscordPlugins/blob/main/HideSidebar.plugin.js
- * @updateUrl https://raw.githubusercontent.com/Pieloaf/BetterDiscordPlugins/main/HideSidebar.plugin.js
+ * @source https://github.com/theSoberSobber/BetterDiscordPlugins-Updated/blob/main/HideSidebar.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/theSoberSobber/BetterDiscordPlugins-Updated/main/HideSidebar.plugin.js
  */
 module.exports = (_ => {
 
