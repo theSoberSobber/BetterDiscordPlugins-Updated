@@ -1,6 +1,6 @@
 /**
  * @name HideSideBar
- * @version 1.1.5
+ * @version 1.1.6
  * @description Plugin to hide sidebar in discord
  * @author Pieloaf
  * @authorId 439364864763363363
